@@ -1,2 +1,2 @@
-# WelcomeToTeory
+# WelcomeToTheory
 Site-treino
